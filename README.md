@@ -130,7 +130,7 @@
   ⬇⬇ Check my Team below ⬇⬇
 </h3>
 
-## 🐼 IT Solution Schlup Team
+## IT Solution Schlup Team
 
 <table>
   <tr>
