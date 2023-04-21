@@ -6,10 +6,9 @@
 ## 💬 About me:
 
 - I'm a Backend Web Developer
-- Manager at <a href="https://itschlup.ch">IT Solution Schlup</a>
 - Age 23
   <br>
-
+<!---
 ## 📕 My Current Projects:
 
 - <a href="https://itschlup.ch/">IT Solution Schlup<a>
@@ -17,8 +16,7 @@
 - <a href="https://safestats.ch/">Safestats</a>
 - <a href="https://swiss-monitor.ch/de/">Swiss-Monitor</a>
 - <a href="https://intranet-horizon.ch/">Intranet-Horizon</a>
-- <a href="https://vahana-life.de/">Vahana-Life</a>
-
+-->
 <details open>
   <summary><b>My Stats:</b></summary>
 
@@ -125,7 +123,7 @@
 <!--
 </details>-->
 <br /><br /><br />
-
+<!--
 <h3 align="center">
   ⬇⬇ Check my Team below ⬇⬇
 </h3>
@@ -142,12 +140,12 @@
     <td align="center">
       <a href="https://github.com/dev-mb"><img src="https://avatars3.githubusercontent.com/u/50833616?v=4" width="100px;" alt="Dev-MB" /><br />
         <sub><b><a href="https://github.com/dev-mb">Florin</b></a></sub><br />Deputy manager<br /><a  href="https://dev-mb.dev/">Dev-MB</a>
-    </td>-->
+    </td>--><!--
   </tr>
 </table>
 <br>
 
 > Webseite: [itschlup.ch](https://itschlup.ch) \
-> Support [Discord-Server](https://discord.gg/xFCUUgh) \
+> Support [Discord-Server](https://discord.gg/xFCUUgh) \-->
 > Made with :heart: <br>
 > V 0.0.1 <br>
