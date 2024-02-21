@@ -6,16 +6,12 @@
 ## 💬 About me:
 
 - I'm a Backend Web Developer
-- Age 23
+- Age 24
   <br>
 <!---
 ## 📕 My Current Projects:
 
-- <a href="https://itschlup.ch/">IT Solution Schlup<a>
-- <a href="https://linkly.ch/">Linkly</a>
-- <a href="https://safestats.ch/">Safestats</a>
-- <a href="https://swiss-monitor.ch/de/">Swiss-Monitor</a>
-- <a href="https://intranet-horizon.ch/">Intranet-Horizon</a>
+- <a href="https://nexacore.ch/">NexaCore-Systems<a>
 -->
 <details open>
   <summary><b>My Stats:</b></summary>
