@@ -8,11 +8,11 @@
 - I'm a Backend Web Developer
 - Age 24
   <br>
-<!---
+
 ## 📕 My Current Projects:
 
 - <a href="https://nexacore.ch/">NexaCore-Systems<a>
--->
+
 <details open>
   <summary><b>My Stats:</b></summary>
 
